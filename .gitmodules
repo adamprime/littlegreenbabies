@@ -1,0 +1,3 @@
+[submodule "restaurant-hugo"]
+	path = restaurant-hugo
+	url = git@github.com:themefisher/restaurant-hugo.git
